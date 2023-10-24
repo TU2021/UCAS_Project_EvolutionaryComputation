@@ -1,5 +1,5 @@
 # UCAS_Project_EvolutionaryComputation
-This project is a large assignment for the fall semester 2023 at the University of Chinese Academy of Sciences - Evolutionary Computation: Acrobot Robot Pendulum Control
+This project is the final project for the fall semester 2023 at the University of Chinese Academy of Sciences, Evolutionary Computation Academic Program: Acrobot Robot Pendulum Control
 
 A fuzzy controller based on SEGA, APSO, and reinforcement learning for SAC is implemented to control the Acrobot Robot.
 
