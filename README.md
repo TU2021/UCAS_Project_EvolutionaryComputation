@@ -12,4 +12,4 @@ For fuzzy control and RL control which require separate modifications to the ori
 
 Details can be found in the pdf file of the report.
 
-Thanks to my teammates:  Yaocheng Zhang， Kaixuan Xu and  Wei Bao.
+Thanks to my teammates: Yaocheng Zhang, Kaixuan Xu and Wei Bao.
