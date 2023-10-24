@@ -8,8 +8,8 @@ gym = 0.23.0
 stable-baseline3 = 2.1.0
 geatpy = 2.7
 
-For fuzzy control and RL control which require separate modifications to the original 'gym' environment, we provide two modified environments in the  folder : 'Environments'.
+For fuzzy control and RL control which require separate modifications to the original 'gym' environment, we provide two modified environments in the folder 'Environments'.
 
-Details and results can be found in the pdf file of the report.
+Details can be found in the pdf file of the report.
 
-Thanks to my teammates: Yaocheng Zhang， Kaixuan Xu， Wei Bao。
+Thanks to my teammates: Yaocheng Zhang， Kaixuan Xu， Wei Bao.
